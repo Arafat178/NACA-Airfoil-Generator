@@ -102,7 +102,7 @@ create_spline_in_solidworks(coords)
 
 **Arafat Hossain**
 🎓 Mechanical Engineering Student | Python + CAD Automation Enthusiast
-🔗 GitHub: [@your-username](https://github.com/Arafat178)
+🔗 GitHub: [Arafat178](https://github.com/Arafat178)
 
 ---
 
